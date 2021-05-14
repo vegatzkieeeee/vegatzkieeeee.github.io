@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<head>
+<body background="Black.jpeg">
+<br>
+<br>
+
+<center><h1><font color="white">My Home Page</center></h1>
+
+<br>
+<br>
+
+
+<style>
+
+.Button1{
+
+background-color:pink;
+
+color: white;
+
+padding: 14px 25px;
+
+text-align: center;
+
+
+text-decoration: none;
+
+}
+.button1:active {
+    }
+
+
+
+
+.button2{
+
+background-color: #add8e6 ;
+
+color: white;
+
+padding: 14px 25px;
+
+text-align: center;
+
+text-decoration: none;
+
+}
+
+.button2:active {
+
+    }
+.button3{
+
+background-color: #b19cd9;
+
+color: white;
+
+padding: 14px 25px;
+
+text-align: center;
+
+text-decoration: none;
+
+}
+
+.button3:active {
+
+    }
+
+
+</style>
+<center>
+<a href="About Me.html" class="Button1">About Me</a>
+<br>
+<br>
+<br>
+<br>
+<a href="page1.html" class="button2">  Favorites  </a>
+<br>
+<br>
+<br>
+<br>
+<a href="https://www.facebook.com/ashley.pestrana" class="button3">My Facebook</a>
+</center>
+</head>
+
+</html>
